@@ -53,6 +53,7 @@ public class CardStreamFragment extends Fragment {
 
 
     @Override
+    // Sample Java comment
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
 
